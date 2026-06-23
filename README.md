@@ -1,6 +1,4 @@
-import os
-
-readme_content = """# Windows11Debloat - Kustomisasi Autounattend.xml & Debloat Script
+"""# Windows11Debloat - Kustomisasi Autounattend.xml & Debloat Script
 
 Repositori ini berisi panduan, catatan konfigurasi, dan skrip optimasi untuk instalasi bersih (Clean Install) Windows 11 64-bit yang telah di-debloat dan disesuaikan khusus untuk perangkat **MSI**. Konfigurasi ini dirancang agar sistem berjalan lebih ringan, responsif, menjaga privasi, namun tetap mempertahankan fungsionalitas esensial (seperti Microsoft Store untuk bermain Minecraft).
 
