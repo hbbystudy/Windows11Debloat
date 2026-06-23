@@ -100,3 +100,12 @@ Untuk debloat dan optimasi pasca-instalasi yang lebih mendalam, gunakan **Chris 
 
 ```powershell
 iwr -useb [https://christitus.com/win](https://christitus.com/win) | iex
+```
+
+### Saya Tidak Bertanggung jawab kalau anda menggunakan file 
+* `autounattend.xml`
+
+* KARENA INI UNTUK PENGGUNAKAN PRIBADI JADI JIKA INGIN CUSTOM `autounattend.xml` SILAHKAN KE LINK DI BAWAH INI
+* ```txt
+  https://schneegans.de/windows/unattend-generator/
+  ```
